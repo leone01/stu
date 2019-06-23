@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!-- 配置一个子控制器的包名.类名 -->
+	<bean class="mvc.Controller"></bean>
+</beans>
